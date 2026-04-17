@@ -1,0 +1,7 @@
+[2026-04-17T16:15:03Z] === AST ITERATION 1 START | repo=deedy5/duckduckgo_search sha=1ebe1014 ===
+[2026-04-17T16:15:03Z] [iter=1] PHASE START: ast repo=deedy5/duckduckgo_search sha=1ebe1014
+[2026-04-17T16:15:03Z] [iter=1] Building AST aggregate chunks
+[2026-04-17T16:15:16Z] [iter=1] AST chunks built count=1 triples=168405
+[2026-04-17T16:15:16Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1ebe10148c8089e888a36b25b5b557b9e94d8a3f/.complete
+[2026-04-17T16:15:16Z] [iter=1] PHASE END: ast elapsed_s=12 elapsed_min=0.2
+[2026-04-17T16:15:16Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
